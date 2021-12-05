@@ -1,0 +1,15 @@
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/bin/Debug/net5.0/algorithmsC#.deps.json
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/bin/Debug/net5.0/algorithmsC#.runtimeconfig.json
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/bin/Debug/net5.0/algorithmsC#.runtimeconfig.dev.json
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/bin/Debug/net5.0/algorithmsC#.dll
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/bin/Debug/net5.0/ref/algorithmsC#.dll
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/bin/Debug/net5.0/algorithmsC#.pdb
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.csproj.AssemblyReference.cache
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.AssemblyInfoInputs.cache
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.AssemblyInfo.cs
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.csproj.CoreCompileInputs.cache
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.dll
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/ref/algorithmsC#.dll
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.pdb
+/Users/brakwakujr/Desktop/Projects/algorithmsC#/obj/Debug/net5.0/algorithmsC#.genruntimeconfig.cache
